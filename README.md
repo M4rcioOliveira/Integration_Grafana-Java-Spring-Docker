@@ -1,6 +1,6 @@
 # Integration With Grafana - Done
 
-O  **Integration With *Grafana***  é uma aplicação de estudos para aprendizagem de implementação observabilidade usando ***Spring Actuator***, ***Prometheus*** e ***Grafana.***
+O  **Integration With *Grafana***  é uma aplicação de estudos para aprendizagem de implementação de observabilidade usando ***Spring Actuator***, ***Prometheus*** e ***Grafana.***
 
 ## Pré-requisitos
 
@@ -19,6 +19,6 @@ Tenha as seguintes ferramentas instaladas e atualizadas em sua máquina:
 3.  **Acesse o Grafana**
     Acesse o grafana na porta `3000` http://localhost:3000/
 
-## Materias de Apoio
+## Materiais de Apoio
 
 Dashboard de métricas com Spring Boot Actuator, Prometheus e Grafana https://www.youtube.com/watch?v=K_EI1SxVQ5Q
